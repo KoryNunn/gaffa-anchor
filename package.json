@@ -1,0 +1,22 @@
+{
+  "name": "gaffa-anchor",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "version": "1.0.0",
+  "main": "anchor.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/gaffa-anchor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-anchor/issues"
+  },
+  "keywords": [
+    "gaffa",
+    "anchor",
+    "view"
+  ],
+  "peerDependencies": {
+    "gaffa": "^1.0.0"
+  },
+  "license": "MIT"
+}
